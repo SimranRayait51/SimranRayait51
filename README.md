@@ -1,16 +1,20 @@
-## Hi there 👋
+### 💻 Simran Kaur Rayait Digital Desk
+<i>A Professional Data Wizard 📊  | An Expert in Creating Unique Insights 💡</i>
+_____
+  👩‍💻 **Role :** Data Analyst | BI Analyst | SQL Developer</br>
+ 📍 **Location :**  WHERE chai = strong AND data = clean </br>
 
-<!--
-**SimranRayait4756/SimranRayait4756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌿 My Digital Workspace:
+- 🧠 **Brainstorming**: Endless Tea , Powerful Ideas
+- 🗃️ **Querying**: SQL & PostgreSQL, unlocking the stories hidden in data  
+- 📈 **Visualizing**: Tableau & Power BI , Turning 123.. into stories
+- 🧹 **Cleaning**: Python (pandas, numpy) — Messy Data? Not a Problem.
+  
 
-Here are some ideas to get you started:
+## 🧾 Sticky Notes:</br>
+“Data speaks the truth — but only when you ask the right questions.” </br>
+“SQL debugging > Bad coffee. Always.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☕ Let’s grab a virtual Tea? 
+- 📬 **Email**: [SimranRayaitWork@gmail.com](mailto:SimranRayaitWork@gmail.com)  
+- 🌐 **LinkedIn**: [Simran Kaur Rayait](https://www.linkedin.com/in/simran-kaur-rayait-9378b2186)
