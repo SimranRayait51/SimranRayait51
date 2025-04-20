@@ -18,3 +18,7 @@ _____
 ## ☕ Let’s grab a virtual Tea? 
 - 📬 **Email**: [SimranRayaitWork@gmail.com](mailto:SimranRayaitWork@gmail.com)  
 - 🌐 **LinkedIn**: [Simran Kaur Rayait](https://www.linkedin.com/in/simran-kaur-rayait-9378b2186)
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="#" download>Download my resume</a>
