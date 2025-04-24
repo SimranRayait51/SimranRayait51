@@ -21,4 +21,4 @@ _____
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="#" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1xw90JmFR-DV8dnmK6XBFcQl0659rbjwg/view?usp=sharing" download>Download my resume</a>
