@@ -10,7 +10,7 @@ _____
 - 📈 **Visualizing**: Tableau & Power BI , Turning Raw Data.. into stories
 - 🧹 **Cleaning**: Python (pandas, numpy, matplotlib) — Messy Data? Not a Problem.
   
-
+- Right now working side by side on 8 week sql challenge .
 ## 🧾 Sticky Notes:</br>
 “Data speaks the truth — but only when you ask the right questions.” </br>
 “SQL debugging > Bad Tea. Always.”
